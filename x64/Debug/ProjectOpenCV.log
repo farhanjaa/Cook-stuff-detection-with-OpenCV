@@ -1,0 +1,5 @@
+﻿  Project 1.cpp
+C:\Users\USER\source\repos\ProjectOpenCV\ProjectOpenCV\Project 1.cpp(47,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\USER\source\repos\ProjectOpenCV\ProjectOpenCV\Project 1.cpp(53,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\USER\source\repos\ProjectOpenCV\ProjectOpenCV\Project 1.cpp(100,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  ProjectOpenCV.vcxproj -> C:\Users\USER\source\repos\ProjectOpenCV\x64\Debug\ProjectOpenCV.exe
